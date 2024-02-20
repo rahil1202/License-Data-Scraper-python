@@ -1,6 +1,6 @@
 # License Data Scraper
 
-🚗 Scrapes Driving License data from government websites 🚗
+🚗 Scrapes Driving License data from government websites
 
 ## How to Run
 
@@ -78,4 +78,3 @@ Driver Details Successfully stored in driver_data.json
   - requirements.txt
   - README.md
 ```
-
